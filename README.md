@@ -6,7 +6,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@Saulo#7949)
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://acmeco.slack.com/team/U0361L9DHKP)
 
-![Saulo GitHub stats](https://github-readme-stats.vercel.app/api?username=sca93&show_icons=true&theme=tokyonight)
+![Saulo GitHub stats](https://github-readme-stats.vercel.app/api?username=devsaw&show_icons=true&theme=tokyonight)
 
 
 ### Tecnologias
